@@ -1,0 +1,6 @@
+{
+  "name": "PlatoonCommand - Vehicle Platooning Command Center",
+  "description": "Central robotics command center for Master-Follower RC vehicle platooning with dead reckoning, Android phone UDP yaw sensor fusion, and delayed actuation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
